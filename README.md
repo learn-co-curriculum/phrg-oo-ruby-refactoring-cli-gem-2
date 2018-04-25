@@ -1,4 +1,3 @@
-
 #Refactoring a CLI Gem (Concert Gem)
 ​*This video walks through an extended extended process of refactoring a CLI Gem*​
 
@@ -61,3 +60,4 @@
 
 [Refactored Code](https://github.com/benser1/cli-upcoming-concerts)
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-refactoring-cli-gem-2'>OO Ruby Refactoring CLI Gem 2</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Refactoring a CLI Gem (Concert Gem)</p>
